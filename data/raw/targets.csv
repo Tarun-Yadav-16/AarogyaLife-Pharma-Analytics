@@ -1,0 +1,11 @@
+year,region,sales_target_inr,gross_margin_target_pct,on_time_payment_target_pct,stockout_days_target
+2024,North,13500000,0.38,0.8,110
+2024,West,13500000,0.38,0.8,110
+2024,South,15000000,0.38,0.8,110
+2024,East,15000000,0.38,0.8,110
+2024,Central,13500000,0.38,0.8,110
+2025,North,17000000,0.38,0.8,110
+2025,West,19000000,0.38,0.8,110
+2025,South,13500000,0.38,0.8,110
+2025,East,13500000,0.38,0.8,110
+2025,Central,17000000,0.38,0.8,110

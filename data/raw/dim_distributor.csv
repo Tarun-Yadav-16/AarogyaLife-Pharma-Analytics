@@ -1,0 +1,61 @@
+distributor_id,distributor_name,region,state,city,channel,credit_limit_inr,credit_terms_days,active_status,onboard_date
+D001,CareRoute Distributors 1,North,Delhi,New Delhi,Retail Pharmacy,500000,30,Active,2019-01-01
+D002,PrimeMed Distributors 2,North,Uttar Pradesh,Lucknow,Hospital,500000,15,Active,2020-04-01
+D003,MediLink Distributors 3,North,Punjab,Ludhiana,Clinic,500000,45,Active,2021-07-01
+D004,MediLink Distributors 4,West,Maharashtra,Mumbai,E-Pharmacy,500000,30,Active,2022-10-01
+D005,WellServe Distributors 5,West,Gujarat,Ahmedabad,Government Tender,1500000,30,Active,2023-01-01
+D006,MediLink Distributors 6,West,Rajasthan,Jaipur,Retail Pharmacy,500000,45,Active,2024-04-01
+D007,HealthBridge Distributors 7,South,Karnataka,Bengaluru,Hospital,2500000,45,Active,2019-07-01
+D008,PrimeMed Distributors 8,South,Tamil Nadu,Chennai,Clinic,500000,15,Active,2020-10-01
+D009,MediLink Distributors 9,South,Telangana,Hyderabad,E-Pharmacy,1000000,30,Active,2021-01-01
+D010,PrimeMed Distributors 10,East,West Bengal,Kolkata,Government Tender,2500000,60,Active,2022-04-01
+D011,PrimeMed Distributors 11,East,Odisha,Bhubaneswar,Retail Pharmacy,500000,15,Active,2023-07-01
+D012,WellServe Distributors 12,Central,Madhya Pradesh,Indore,Hospital,2500000,45,Active,2024-10-01
+D013,MediLink Distributors 13,North,Delhi,New Delhi,Clinic,500000,60,Active,2019-01-01
+D014,PrimeMed Distributors 14,North,Uttar Pradesh,Lucknow,E-Pharmacy,1000000,30,Active,2020-04-01
+D015,HealthBridge Distributors 15,North,Punjab,Ludhiana,Government Tender,1000000,45,Active,2021-07-01
+D016,PrimeMed Distributors 16,West,Maharashtra,Mumbai,Retail Pharmacy,2500000,60,Active,2022-10-01
+D017,CareRoute Distributors 17,West,Gujarat,Ahmedabad,Hospital,1500000,15,Active,2023-01-01
+D018,WellServe Distributors 18,West,Rajasthan,Jaipur,Clinic,500000,30,Active,2024-04-01
+D019,PrimeMed Distributors 19,South,Karnataka,Bengaluru,E-Pharmacy,1500000,60,Active,2019-07-01
+D020,MediLink Distributors 20,South,Tamil Nadu,Chennai,Government Tender,2500000,45,Active,2020-10-01
+D021,CareRoute Distributors 21,South,Telangana,Hyderabad,Retail Pharmacy,1000000,60,Active,2021-01-01
+D022,WellServe Distributors 22,East,West Bengal,Kolkata,Hospital,1500000,60,Active,2022-04-01
+D023,HealthBridge Distributors 23,East,Odisha,Bhubaneswar,Clinic,750000,60,Active,2023-07-01
+D024,CareRoute Distributors 24,Central,Madhya Pradesh,Indore,E-Pharmacy,2500000,45,Active,2024-10-01
+D025,HealthBridge Distributors 25,North,Delhi,New Delhi,Government Tender,500000,60,Active,2019-01-01
+D026,CareRoute Distributors 26,North,Uttar Pradesh,Lucknow,Retail Pharmacy,500000,30,Active,2020-04-01
+D027,PrimeMed Distributors 27,North,Punjab,Ludhiana,Hospital,1500000,15,Active,2021-07-01
+D028,PrimeMed Distributors 28,West,Maharashtra,Mumbai,Clinic,2500000,30,Active,2022-10-01
+D029,CareRoute Distributors 29,West,Gujarat,Ahmedabad,E-Pharmacy,1500000,60,Active,2023-01-01
+D030,CareRoute Distributors 30,West,Rajasthan,Jaipur,Government Tender,500000,60,Active,2024-04-01
+D031,WellServe Distributors 31,South,Karnataka,Bengaluru,Retail Pharmacy,1500000,45,Active,2019-07-01
+D032,CareRoute Distributors 32,South,Tamil Nadu,Chennai,Hospital,1000000,45,Active,2020-10-01
+D033,HealthBridge Distributors 33,South,Telangana,Hyderabad,Clinic,2500000,30,Active,2021-01-01
+D034,MediLink Distributors 34,East,West Bengal,Kolkata,E-Pharmacy,1500000,30,Active,2022-04-01
+D035,MediLink Distributors 35,East,Odisha,Bhubaneswar,Government Tender,1500000,15,Active,2023-07-01
+D036,PrimeMed Distributors 36,Central,Madhya Pradesh,Indore,Retail Pharmacy,2500000,30,Active,2024-10-01
+D037,WellServe Distributors 37,North,Delhi,New Delhi,Hospital,1000000,45,Active,2019-01-01
+D038,MediLink Distributors 38,North,Uttar Pradesh,Lucknow,Clinic,500000,45,Active,2020-04-01
+D039,CareRoute Distributors 39,North,Punjab,Ludhiana,E-Pharmacy,2500000,45,Active,2021-07-01
+D040,HealthBridge Distributors 40,West,Maharashtra,Mumbai,Government Tender,500000,45,Active,2022-10-01
+D041,WellServe Distributors 41,West,Gujarat,Ahmedabad,Retail Pharmacy,500000,15,Active,2023-01-01
+D042,CareRoute Distributors 42,West,Rajasthan,Jaipur,Hospital,1000000,60,Active,2024-04-01
+D043,CareRoute Distributors 43,South,Karnataka,Bengaluru,Clinic,1000000,15,Active,2019-07-01
+D044,MediLink Distributors 44,South,Tamil Nadu,Chennai,E-Pharmacy,750000,30,Active,2020-10-01
+D045,WellServe Distributors 45,South,Telangana,Hyderabad,Government Tender,2500000,45,Active,2021-01-01
+D046,PrimeMed Distributors 46,East,West Bengal,Kolkata,Retail Pharmacy,750000,45,Active,2022-04-01
+D047,PrimeMed Distributors 47,East,Odisha,Bhubaneswar,Hospital,500000,45,Active,2023-07-01
+D048,MediLink Distributors 48,Central,Madhya Pradesh,Indore,Clinic,750000,30,Active,2024-10-01
+D049,HealthBridge Distributors 49,North,Delhi,New Delhi,E-Pharmacy,750000,60,Active,2019-01-01
+D050,WellServe Distributors 50,North,Uttar Pradesh,Lucknow,Government Tender,1000000,15,Active,2020-04-01
+D051,WellServe Distributors 51,North,Punjab,Ludhiana,Retail Pharmacy,750000,30,Active,2021-07-01
+D052,CareRoute Distributors 52,West,Maharashtra,Mumbai,Hospital,1500000,30,Active,2022-10-01
+D053,WellServe Distributors 53,West,Gujarat,Ahmedabad,Clinic,750000,30,Active,2023-01-01
+D054,WellServe Distributors 54,West,Rajasthan,Jaipur,E-Pharmacy,1000000,60,Active,2024-04-01
+D055,HealthBridge Distributors 55,South,Karnataka,Bengaluru,Government Tender,1000000,30,Active,2019-07-01
+D056,HealthBridge Distributors 56,South,Tamil Nadu,Chennai,Retail Pharmacy,1000000,15,Active,2020-10-01
+D057,HealthBridge Distributors 57,South,Telangana,Hyderabad,Hospital,1500000,30,Active,2021-01-01
+D058,MediLink Distributors 58,East,West Bengal,Kolkata,Clinic,1500000,15,Inactive,2022-04-01
+D059,CareRoute Distributors 59,East,Odisha,Bhubaneswar,E-Pharmacy,2500000,15,Active,2023-07-01
+D060,WellServe Distributors 60,Central,Madhya Pradesh,Indore,Government Tender,2500000,60,Active,2024-10-01

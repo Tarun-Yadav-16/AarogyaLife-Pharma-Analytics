@@ -1,0 +1,37 @@
+product_id,brand_name,generic_name,therapy_area,dosage_form,strength,pack_size,prescription_required,launch_date,unit_mrp_inr,unit_cost_inr,manufacturer_site,shelf_life_months
+P001,ArogyaAtorv 1,Atorvastatin,Cardiology,Tablet,10 mg,1x10,Yes,2020-01-01,42.9,20.93,Hyderabad,36
+P002,JeevanTelmi 2,Telmisartan,Cardiology,Tablet,20 mg,1x10,Yes,2021-02-01,48.09,24.29,Ahmedabad,36
+P003,SwasthMetfo 3,Metformin,Diabetes,Tablet,500 mg,2x10,Yes,2022-03-01,82.17,38.76,Sikkim,24
+P004,MediGlime 4,Glimepiride,Diabetes,Tablet,5 mg,2x10,Yes,2023-04-01,71.92,35.78,Ahmedabad,18
+P005,CuraAzith 5,Azithromycin,Anti-Infective,Tablet,20 mg,2x10,Yes,2024-05-01,85.58,45.52,Hyderabad,30
+P006,VitalAmoxi 6,Amoxicillin Clavulanate,Anti-Infective,Tablet,20 mg,Bottle 100 ml,Yes,2020-06-01,107.93,58.03,Sikkim,18
+P007,ArogyaPanto 7,Pantoprazole,Gastro,Tablet,500 mg,Tube 30 g,Yes,2021-07-01,130.83,62.9,Sikkim,18
+P008,JeevanORS 8,ORS,Gastro,Sachet,10 mg,1x10,No,2022-08-01,144.19,64.08,Sikkim,30
+P009,SwasthParac 9,Paracetamol,Pain Management,Tablet,5 mg,2x10,No,2023-09-01,140.99,64.67,Ahmedabad,18
+P010,MediDiclo 10,Diclofenac Gel,Pain Management,Gel,500 mg,2x10,No,2024-10-01,163.51,73.99,Hyderabad,36
+P011,CuraMonte 11,Montelukast,Respiratory,Tablet,40 mg,2x10,Yes,2020-11-01,192.07,94.62,Ahmedabad,30
+P012,VitalSalbu 12,Salbutamol,Respiratory,Inhaler,5 mg,1x10,Yes,2021-12-01,437.73,222.2,Hyderabad,36
+P013,ArogyaAtorv 13,Atorvastatin,Cardiology,Tablet,40 mg,Bottle 100 ml,Yes,2022-01-01,55.84,27.24,Sikkim,18
+P014,JeevanTelmi 14,Telmisartan,Cardiology,Tablet,500 mg,2x10,Yes,2023-02-01,50.17,25.34,Sikkim,18
+P015,SwasthMetfo 15,Metformin,Diabetes,Tablet,500 mg,Bottle 100 ml,Yes,2024-03-01,60.2,28.4,Hyderabad,36
+P016,MediGlime 16,Glimepiride,Diabetes,Tablet,5 mg,Bottle 100 ml,Yes,2020-04-01,97.36,48.44,Baddi,30
+P017,CuraAzith 17,Azithromycin,Anti-Infective,Tablet,5 mg,1x10,Yes,2021-05-01,92.54,49.22,Sikkim,30
+P018,VitalAmoxi 18,Amoxicillin Clavulanate,Anti-Infective,Tablet,40 mg,Tube 30 g,Yes,2022-06-01,127.16,68.37,Sikkim,30
+P019,ArogyaPanto 19,Pantoprazole,Gastro,Tablet,40 mg,2x10,Yes,2023-07-01,144.4,69.42,Sikkim,24
+P020,JeevanORS 20,ORS,Gastro,Sachet,20 mg,1x10,No,2024-08-01,126.62,56.28,Sikkim,18
+P021,SwasthParac 21,Paracetamol,Pain Management,Tablet,5 mg,2x10,No,2020-09-01,158.52,72.72,Ahmedabad,24
+P022,MediDiclo 22,Diclofenac Gel,Pain Management,Gel,20 mg,Tube 30 g,No,2021-10-01,171.86,77.76,Sikkim,18
+P023,CuraMonte 23,Montelukast,Respiratory,Tablet,500 mg,2x10,Yes,2022-11-01,189.88,93.54,Sikkim,30
+P024,VitalSalbu 24,Salbutamol,Respiratory,Inhaler,20 mg,2x10,Yes,2023-12-01,426.63,216.56,Baddi,24
+P025,ArogyaAtorv 25,Atorvastatin,Cardiology,Tablet,40 mg,1x10,Yes,2024-01-01,31.69,15.46,Hyderabad,18
+P026,JeevanTelmi 26,Telmisartan,Cardiology,Tablet,40 mg,1x10,Yes,2020-02-01,50.65,25.58,Hyderabad,18
+P027,SwasthMetfo 27,Metformin,Diabetes,Tablet,5 mg,Tube 30 g,Yes,2021-03-01,72.91,34.39,Baddi,18
+P028,MediGlime 28,Glimepiride,Diabetes,Tablet,5 mg,Tube 30 g,Yes,2022-04-01,89.57,44.56,Baddi,30
+P029,CuraAzith 29,Azithromycin,Anti-Infective,Tablet,40 mg,Bottle 100 ml,Yes,2023-05-01,121.16,64.45,Sikkim,36
+P030,VitalAmoxi 30,Amoxicillin Clavulanate,Anti-Infective,Tablet,40 mg,Bottle 100 ml,Yes,2024-06-01,116.02,62.38,Ahmedabad,36
+P031,ArogyaPanto 31,Pantoprazole,Gastro,Tablet,500 mg,2x10,Yes,2020-07-01,121.61,58.47,Ahmedabad,36
+P032,JeevanORS 32,ORS,Gastro,Sachet,10 mg,Tube 30 g,No,2021-08-01,116.22,51.65,Baddi,30
+P033,SwasthParac 33,Paracetamol,Pain Management,Tablet,10 mg,2x10,No,2022-09-01,153.1,70.23,Baddi,30
+P034,MediDiclo 34,Diclofenac Gel,Pain Management,Gel,5 mg,1x10,No,2023-10-01,146.2,66.15,Sikkim,18
+P035,CuraMonte 35,Montelukast,Respiratory,Tablet,40 mg,Tube 30 g,Yes,2024-11-01,180.72,89.02,Baddi,30
+P036,VitalSalbu 36,Salbutamol,Respiratory,Inhaler,10 mg,Tube 30 g,Yes,2020-12-01,446.98,226.89,Hyderabad,18

@@ -1,0 +1,421 @@
+case_id,report_date,product_id,patient_age_band,patient_sex,event_seriousness,event_category,outcome,report_source,days_to_report,causality_assessment,case_status
+AE00001,2024-05-05,P034,18-30,Female,Non-Serious,Headache,Recovered,Doctor,5,Possible,Under Review
+AE00002,2024-09-24,P026,46-60,Male,Non-Serious,Respiratory,Recovered,Doctor,18,Certain,Under Review
+AE00003,2024-01-02,P020,61+,Female,Serious,Headache,Recovering,Distributor,6,Possible,Closed
+AE00004,2024-08-29,P036,46-60,Male,Non-Serious,Dizziness,Recovered,Doctor,35,Possible,Under Review
+AE00005,2025-10-03,P014,18-30,Female,Non-Serious,Allergic Reaction,Unknown,Doctor,36,Possible,Closed
+AE00006,2024-01-12,P031,46-60,Not Reported,Serious,Dizziness,Recovered,Patient,20,Possible,Closed
+AE00007,2024-11-06,P036,0-17,Female,Non-Serious,Dizziness,Unknown,Doctor,28,Unlikely,Under Review
+AE00008,2024-12-12,P015,0-17,Female,Serious,Dizziness,Hospitalized,Hospital,28,Probable,Under Review
+AE00009,2024-10-20,P028,18-30,Male,Non-Serious,Respiratory,Unknown,Hospital,30,Probable,Closed
+AE00010,2024-08-20,P026,18-30,Female,Non-Serious,Gastrointestinal,Recovering,Doctor,21,Probable,Closed
+AE00011,2025-03-03,P011,31-45,Not Reported,Non-Serious,Allergic Reaction,Recovering,Distributor,9,Probable,Closed
+AE00012,2025-04-17,P032,46-60,Male,Non-Serious,Allergic Reaction,Unknown,Doctor,25,Unlikely,Closed
+AE00013,2024-10-10,P015,0-17,Male,Non-Serious,Dizziness,Recovered,Patient,27,Certain,Under Review
+AE00014,2025-06-28,P003,31-45,Not Reported,Non-Serious,Skin Reaction,Unknown,Hospital,25,Possible,Closed
+AE00015,2024-06-04,P022,18-30,Male,Non-Serious,Headache,Recovering,Doctor,23,Certain,Closed
+AE00016,2025-04-18,P032,46-60,Male,Non-Serious,Headache,Unknown,Doctor,12,Certain,Closed
+AE00017,2024-10-01,P014,31-45,Not Reported,Non-Serious,Allergic Reaction,Recovering,Distributor,24,Probable,Closed
+AE00018,2025-12-07,P036,61+,Male,Non-Serious,Gastrointestinal,Unknown,Doctor,28,Certain,Closed
+AE00019,2025-01-24,P002,46-60,Female,Serious,Dizziness,Recovering,Patient,20,Unlikely,Closed
+AE00020,2025-01-31,P029,18-30,Female,Non-Serious,Respiratory,Recovering,Distributor,8,Unlikely,Under Review
+AE00021,2024-12-23,P008,31-45,Male,Serious,Allergic Reaction,Recovered,Doctor,36,Possible,Under Review
+AE00022,2025-03-07,P015,61+,Male,Non-Serious,Skin Reaction,Recovered,Hospital,2,Unlikely,Under Review
+AE00023,2025-02-20,P008,18-30,Female,Non-Serious,Dizziness,Recovering,Hospital,13,Certain,Closed
+AE00024,2025-02-12,P010,61+,Female,Non-Serious,Headache,Unknown,Distributor,19,Possible,Closed
+AE00025,2024-02-26,P009,46-60,Not Reported,Non-Serious,Respiratory,Recovered,Hospital,34,Unlikely,Closed
+AE00026,2024-03-21,P025,0-17,Female,Non-Serious,Headache,Unknown,Doctor,33,Unlikely,Closed
+AE00027,2024-03-26,P012,18-30,Not Reported,Non-Serious,Headache,Unknown,Doctor,31,Unlikely,Closed
+AE00028,2025-09-20,P010,31-45,Female,Non-Serious,Allergic Reaction,Unknown,Hospital,23,Certain,Under Review
+AE00029,2024-01-23,P016,0-17,Male,Non-Serious,Dizziness,Unknown,Distributor,25,Unlikely,Closed
+AE00030,2025-11-28,P002,0-17,Not Reported,Non-Serious,Allergic Reaction,Unknown,Doctor,8,Unlikely,Closed
+AE00031,2024-05-28,P003,0-17,Female,Non-Serious,Respiratory,Recovering,Patient,4,Unlikely,Closed
+AE00032,2025-07-01,P004,0-17,Not Reported,Non-Serious,Allergic Reaction,Recovering,Hospital,24,Unlikely,Closed
+AE00033,2025-07-02,P010,18-30,Not Reported,Non-Serious,Dizziness,Unknown,Distributor,21,Unlikely,Closed
+AE00034,2025-09-08,P017,31-45,Female,Non-Serious,Gastrointestinal,Recovered,Hospital,17,Possible,Closed
+AE00035,2024-05-22,P023,18-30,Male,Non-Serious,Gastrointestinal,Recovering,Distributor,14,Probable,Closed
+AE00036,2024-02-26,P036,18-30,Female,Serious,Allergic Reaction,Recovered,Doctor,8,Unlikely,Under Review
+AE00037,2024-01-17,P019,31-45,Female,Non-Serious,Gastrointestinal,Unknown,Doctor,33,Unlikely,Under Review
+AE00038,2025-09-11,P008,18-30,Female,Non-Serious,Allergic Reaction,Unknown,Hospital,2,Certain,Closed
+AE00039,2025-09-29,P005,18-30,Male,Non-Serious,Dizziness,Recovering,Doctor,33,Certain,Closed
+AE00040,2025-11-17,P016,18-30,Male,Non-Serious,Headache,Recovering,Patient,34,Probable,Closed
+AE00041,2024-07-14,P032,61+,Female,Non-Serious,Allergic Reaction,Recovered,Patient,8,Probable,Closed
+AE00042,2025-08-29,P033,31-45,Not Reported,Non-Serious,Headache,Unknown,Patient,24,Probable,Closed
+AE00043,2024-03-13,P008,61+,Female,Non-Serious,Respiratory,Recovered,Patient,34,Unlikely,Closed
+AE00044,2025-10-28,P020,0-17,Female,Non-Serious,Skin Reaction,Recovering,Hospital,32,Certain,Closed
+AE00045,2025-10-23,P009,0-17,Female,Non-Serious,Allergic Reaction,Recovering,Distributor,6,Unlikely,Under Review
+AE00046,2024-05-24,P004,0-17,Female,Non-Serious,Allergic Reaction,Unknown,Patient,14,Unlikely,Under Review
+AE00047,2025-11-18,P003,0-17,Female,Non-Serious,Gastrointestinal,Unknown,Patient,22,Possible,Under Review
+AE00048,2024-10-31,P005,0-17,Male,Non-Serious,Gastrointestinal,Unknown,Doctor,5,Possible,Closed
+AE00049,2025-08-20,P030,18-30,Male,Non-Serious,Skin Reaction,Recovering,Patient,35,Certain,Closed
+AE00050,2024-04-04,P016,0-17,Male,Non-Serious,Allergic Reaction,Recovered,Hospital,32,Probable,Under Review
+AE00051,2024-09-07,P003,18-30,Female,Non-Serious,Allergic Reaction,Recovered,Doctor,12,Possible,Closed
+AE00052,2025-12-18,P006,18-30,Female,Non-Serious,Gastrointestinal,Unknown,Hospital,19,Probable,Closed
+AE00053,2024-04-15,P014,61+,Female,Non-Serious,Skin Reaction,Unknown,Patient,25,Probable,Closed
+AE00054,2025-05-31,P005,0-17,Female,Serious,Respiratory,Recovered,Distributor,31,Probable,Closed
+AE00055,2025-06-15,P001,46-60,Female,Non-Serious,Skin Reaction,Recovered,Patient,20,Certain,Under Review
+AE00056,2024-12-06,P011,61+,Not Reported,Serious,Respiratory,Recovering,Doctor,3,Possible,Under Review
+AE00057,2025-10-21,P005,46-60,Not Reported,Non-Serious,Respiratory,Recovering,Distributor,13,Probable,Closed
+AE00058,2025-03-16,P013,0-17,Female,Non-Serious,Respiratory,Recovered,Hospital,32,Possible,Closed
+AE00059,2024-03-31,P024,31-45,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,35,Possible,Closed
+AE00060,2025-01-19,P034,0-17,Female,Non-Serious,Respiratory,Recovering,Doctor,13,Possible,Closed
+AE00061,2024-04-12,P023,0-17,Female,Non-Serious,Headache,Recovering,Hospital,19,Unlikely,Closed
+AE00062,2024-07-26,P017,46-60,Not Reported,Non-Serious,Headache,Unknown,Patient,32,Possible,Closed
+AE00063,2025-05-10,P026,18-30,Not Reported,Non-Serious,Allergic Reaction,Recovered,Distributor,14,Possible,Closed
+AE00064,2025-10-10,P006,46-60,Not Reported,Non-Serious,Allergic Reaction,Unknown,Hospital,17,Probable,Closed
+AE00065,2025-04-20,P005,61+,Female,Non-Serious,Dizziness,Unknown,Distributor,16,Certain,Under Review
+AE00066,2025-09-22,P016,31-45,Female,Non-Serious,Skin Reaction,Unknown,Patient,12,Possible,Closed
+AE00067,2025-04-29,P003,18-30,Female,Non-Serious,Skin Reaction,Recovering,Doctor,2,Probable,Closed
+AE00068,2024-05-26,P006,46-60,Not Reported,Non-Serious,Respiratory,Recovered,Hospital,14,Probable,Under Review
+AE00069,2024-11-14,P010,31-45,Not Reported,Serious,Skin Reaction,Hospitalized,Distributor,19,Unlikely,Under Review
+AE00070,2024-01-28,P034,0-17,Female,Non-Serious,Allergic Reaction,Recovering,Hospital,13,Possible,Under Review
+AE00071,2024-09-11,P010,0-17,Male,Serious,Gastrointestinal,Recovered,Doctor,11,Certain,Closed
+AE00072,2025-02-10,P007,18-30,Female,Non-Serious,Allergic Reaction,Unknown,Distributor,24,Probable,Closed
+AE00073,2024-11-16,P025,31-45,Not Reported,Non-Serious,Skin Reaction,Recovering,Hospital,18,Certain,Closed
+AE00074,2025-08-08,P025,18-30,Not Reported,Non-Serious,Allergic Reaction,Unknown,Distributor,36,Possible,Closed
+AE00075,2024-08-30,P034,46-60,Female,Non-Serious,Skin Reaction,Unknown,Doctor,23,Unlikely,Closed
+AE00076,2025-11-02,P016,46-60,Female,Non-Serious,Respiratory,Recovering,Doctor,5,Certain,Closed
+AE00077,2024-07-05,P003,61+,Female,Non-Serious,Respiratory,Unknown,Doctor,32,Certain,Closed
+AE00078,2025-08-23,P009,46-60,Female,Non-Serious,Allergic Reaction,Recovered,Doctor,29,Probable,Under Review
+AE00079,2024-05-24,P020,61+,Female,Non-Serious,Allergic Reaction,Recovered,Distributor,13,Certain,Under Review
+AE00080,2024-02-13,P019,0-17,Not Reported,Non-Serious,Respiratory,Unknown,Hospital,14,Probable,Closed
+AE00081,2025-08-27,P007,31-45,Not Reported,Non-Serious,Allergic Reaction,Recovering,Patient,31,Unlikely,Closed
+AE00082,2025-05-07,P012,46-60,Not Reported,Non-Serious,Skin Reaction,Unknown,Hospital,23,Probable,Closed
+AE00083,2025-03-22,P027,0-17,Not Reported,Non-Serious,Dizziness,Recovered,Hospital,20,Certain,Under Review
+AE00084,2025-07-15,P015,0-17,Female,Non-Serious,Skin Reaction,Recovering,Hospital,31,Possible,Under Review
+AE00085,2024-09-03,P011,31-45,Male,Non-Serious,Gastrointestinal,Recovering,Doctor,33,Certain,Closed
+AE00086,2024-09-17,P011,18-30,Not Reported,Non-Serious,Headache,Recovered,Distributor,16,Unlikely,Under Review
+AE00087,2024-05-26,P002,31-45,Female,Non-Serious,Gastrointestinal,Unknown,Hospital,19,Certain,Closed
+AE00088,2024-10-10,P029,18-30,Male,Non-Serious,Headache,Recovered,Distributor,23,Probable,Closed
+AE00089,2025-08-10,P033,0-17,Male,Non-Serious,Allergic Reaction,Unknown,Doctor,6,Unlikely,Closed
+AE00090,2025-06-25,P012,31-45,Female,Non-Serious,Skin Reaction,Recovered,Distributor,11,Probable,Closed
+AE00091,2025-09-15,P027,31-45,Not Reported,Non-Serious,Dizziness,Recovered,Doctor,9,Unlikely,Closed
+AE00092,2025-12-21,P018,18-30,Male,Non-Serious,Allergic Reaction,Recovered,Patient,28,Possible,Closed
+AE00093,2024-03-10,P025,31-45,Not Reported,Non-Serious,Dizziness,Recovered,Patient,4,Certain,Closed
+AE00094,2025-10-21,P011,18-30,Male,Non-Serious,Gastrointestinal,Unknown,Hospital,8,Unlikely,Closed
+AE00095,2024-07-09,P011,61+,Female,Non-Serious,Dizziness,Recovering,Patient,20,Certain,Closed
+AE00096,2025-05-17,P005,61+,Not Reported,Serious,Respiratory,Recovered,Doctor,25,Probable,Closed
+AE00097,2024-09-16,P006,31-45,Female,Serious,Dizziness,Hospitalized,Distributor,23,Unlikely,Closed
+AE00098,2024-12-17,P001,31-45,Male,Non-Serious,Gastrointestinal,Recovering,Doctor,3,Certain,Closed
+AE00099,2025-09-16,P017,18-30,Male,Non-Serious,Allergic Reaction,Recovered,Distributor,30,Possible,Under Review
+AE00100,2025-12-25,P015,31-45,Female,Non-Serious,Gastrointestinal,Recovered,Distributor,6,Probable,Under Review
+AE00101,2024-02-29,P016,61+,Female,Non-Serious,Headache,Recovered,Doctor,20,Possible,Closed
+AE00102,2025-01-04,P022,18-30,Female,Non-Serious,Respiratory,Unknown,Doctor,34,Possible,Closed
+AE00103,2024-11-23,P001,0-17,Not Reported,Non-Serious,Gastrointestinal,Unknown,Distributor,21,Unlikely,Closed
+AE00104,2024-03-03,P023,31-45,Not Reported,Non-Serious,Gastrointestinal,Recovering,Hospital,3,Probable,Closed
+AE00105,2024-08-26,P030,46-60,Not Reported,Non-Serious,Dizziness,Recovering,Hospital,8,Certain,Closed
+AE00106,2024-09-20,P010,18-30,Male,Non-Serious,Headache,Recovering,Distributor,27,Probable,Closed
+AE00107,2024-06-29,P029,0-17,Female,Non-Serious,Skin Reaction,Recovering,Distributor,7,Unlikely,Closed
+AE00108,2024-12-25,P012,18-30,Male,Non-Serious,Respiratory,Unknown,Patient,22,Certain,Under Review
+AE00109,2025-07-13,P018,61+,Male,Non-Serious,Dizziness,Recovered,Patient,26,Unlikely,Closed
+AE00110,2025-08-03,P012,31-45,Not Reported,Non-Serious,Skin Reaction,Recovering,Doctor,29,Probable,Under Review
+AE00111,2024-01-28,P020,31-45,Male,Non-Serious,Gastrointestinal,Recovered,Distributor,23,Probable,Closed
+AE00112,2025-02-16,P034,46-60,Not Reported,Non-Serious,Gastrointestinal,Recovering,Hospital,21,Unlikely,Closed
+AE00113,2025-03-26,P020,18-30,Female,Non-Serious,Dizziness,Recovering,Hospital,12,Unlikely,Closed
+AE00114,2024-05-02,P023,18-30,Male,Non-Serious,Gastrointestinal,Recovering,Distributor,28,Unlikely,Closed
+AE00115,2025-05-26,P019,31-45,Not Reported,Non-Serious,Headache,Recovering,Doctor,6,Unlikely,Closed
+AE00116,2025-04-13,P006,46-60,Not Reported,Non-Serious,Headache,Unknown,Distributor,22,Certain,Closed
+AE00117,2025-04-06,P023,61+,Male,Non-Serious,Headache,Unknown,Hospital,12,Possible,Closed
+AE00118,2024-09-10,P036,31-45,Not Reported,Non-Serious,Dizziness,Recovering,Distributor,10,Possible,Closed
+AE00119,2024-10-02,P003,18-30,Female,Non-Serious,Dizziness,Recovering,Doctor,35,Unlikely,Closed
+AE00120,2025-10-25,P016,31-45,Male,Non-Serious,Dizziness,Recovered,Hospital,18,Possible,Closed
+AE00121,2025-05-07,P015,46-60,Not Reported,Non-Serious,Skin Reaction,Recovered,Distributor,24,Unlikely,Closed
+AE00122,2025-10-28,P006,18-30,Male,Non-Serious,Dizziness,Unknown,Patient,27,Probable,Closed
+AE00123,2025-11-13,P021,46-60,Not Reported,Non-Serious,Skin Reaction,Recovering,Hospital,15,Certain,Closed
+AE00124,2024-07-09,P012,31-45,Not Reported,Non-Serious,Gastrointestinal,Recovered,Patient,25,Possible,Under Review
+AE00125,2025-02-24,P025,46-60,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,30,Certain,Closed
+AE00126,2025-03-29,P023,31-45,Male,Non-Serious,Dizziness,Recovering,Doctor,29,Certain,Closed
+AE00127,2025-02-03,P014,46-60,Not Reported,Non-Serious,Allergic Reaction,Recovered,Distributor,8,Certain,Under Review
+AE00128,2025-06-01,P012,0-17,Male,Serious,Respiratory,Hospitalized,Patient,26,Possible,Closed
+AE00129,2024-08-09,P013,46-60,Female,Non-Serious,Allergic Reaction,Recovered,Distributor,26,Unlikely,Closed
+AE00130,2024-07-21,P010,18-30,Not Reported,Non-Serious,Respiratory,Unknown,Patient,25,Unlikely,Closed
+AE00131,2025-02-01,P027,0-17,Not Reported,Non-Serious,Headache,Recovering,Doctor,16,Probable,Closed
+AE00132,2024-04-07,P023,18-30,Male,Non-Serious,Gastrointestinal,Recovering,Doctor,3,Probable,Closed
+AE00133,2025-04-01,P001,18-30,Female,Non-Serious,Dizziness,Recovering,Doctor,3,Probable,Closed
+AE00134,2024-11-18,P008,61+,Female,Serious,Allergic Reaction,Recovering,Doctor,1,Unlikely,Under Review
+AE00135,2025-09-11,P035,46-60,Male,Serious,Respiratory,Recovered,Patient,3,Certain,Closed
+AE00136,2024-11-12,P022,46-60,Male,Serious,Respiratory,Recovered,Hospital,2,Probable,Closed
+AE00137,2025-08-02,P030,18-30,Female,Non-Serious,Dizziness,Unknown,Doctor,31,Probable,Closed
+AE00138,2025-04-19,P003,46-60,Not Reported,Non-Serious,Respiratory,Recovered,Patient,24,Possible,Closed
+AE00139,2025-04-12,P034,46-60,Female,Non-Serious,Headache,Recovered,Hospital,29,Unlikely,Closed
+AE00140,2024-09-14,P023,31-45,Male,Non-Serious,Dizziness,Recovering,Distributor,5,Probable,Closed
+AE00141,2025-12-08,P025,46-60,Male,Non-Serious,Skin Reaction,Recovering,Doctor,6,Certain,Closed
+AE00142,2024-02-10,P007,61+,Not Reported,Non-Serious,Respiratory,Unknown,Patient,15,Possible,Closed
+AE00143,2024-03-09,P003,61+,Not Reported,Non-Serious,Dizziness,Unknown,Hospital,13,Unlikely,Under Review
+AE00144,2025-02-10,P022,0-17,Male,Non-Serious,Allergic Reaction,Recovering,Hospital,17,Probable,Under Review
+AE00145,2024-09-13,P013,18-30,Not Reported,Serious,Dizziness,Hospitalized,Patient,28,Unlikely,Closed
+AE00146,2025-05-23,P001,31-45,Female,Non-Serious,Respiratory,Recovered,Doctor,4,Probable,Closed
+AE00147,2024-08-05,P008,61+,Female,Non-Serious,Respiratory,Unknown,Distributor,31,Possible,Closed
+AE00148,2025-06-15,P006,61+,Not Reported,Non-Serious,Respiratory,Recovering,Patient,35,Certain,Closed
+AE00149,2024-08-05,P005,18-30,Female,Non-Serious,Gastrointestinal,Unknown,Doctor,28,Certain,Under Review
+AE00150,2025-06-29,P023,18-30,Male,Non-Serious,Dizziness,Recovering,Distributor,26,Possible,Under Review
+AE00151,2025-06-10,P036,46-60,Male,Non-Serious,Headache,Recovered,Patient,11,Possible,Under Review
+AE00152,2025-07-02,P024,46-60,Not Reported,Non-Serious,Respiratory,Unknown,Doctor,21,Possible,Under Review
+AE00153,2025-09-12,P015,0-17,Female,Non-Serious,Respiratory,Recovered,Patient,6,Probable,Under Review
+AE00154,2025-01-10,P023,0-17,Not Reported,Non-Serious,Gastrointestinal,Recovering,Patient,21,Probable,Closed
+AE00155,2025-08-26,P034,31-45,Not Reported,Non-Serious,Headache,Recovered,Patient,24,Unlikely,Closed
+AE00156,2024-07-11,P014,18-30,Female,Non-Serious,Dizziness,Unknown,Hospital,9,Possible,Closed
+AE00157,2024-12-04,P017,18-30,Female,Non-Serious,Respiratory,Recovering,Doctor,29,Possible,Closed
+AE00158,2024-01-08,P018,46-60,Not Reported,Non-Serious,Dizziness,Unknown,Patient,24,Possible,Closed
+AE00159,2025-05-31,P034,0-17,Female,Non-Serious,Skin Reaction,Recovering,Patient,1,Certain,Closed
+AE00160,2024-04-15,P013,61+,Not Reported,Non-Serious,Gastrointestinal,Unknown,Distributor,2,Probable,Under Review
+AE00161,2025-10-09,P005,0-17,Female,Serious,Skin Reaction,Recovering,Hospital,21,Certain,Closed
+AE00162,2024-09-06,P033,61+,Male,Non-Serious,Headache,Recovering,Distributor,11,Certain,Under Review
+AE00163,2025-09-02,P001,18-30,Not Reported,Non-Serious,Skin Reaction,Recovering,Doctor,8,Possible,Closed
+AE00164,2025-05-27,P032,0-17,Not Reported,Non-Serious,Dizziness,Recovering,Hospital,21,Certain,Closed
+AE00165,2024-11-14,P004,61+,Male,Non-Serious,Headache,Recovered,Hospital,10,Certain,Closed
+AE00166,2024-08-05,P007,31-45,Male,Non-Serious,Gastrointestinal,Recovered,Patient,19,Unlikely,Closed
+AE00167,2024-08-08,P026,0-17,Female,Non-Serious,Dizziness,Recovering,Hospital,24,Certain,Closed
+AE00168,2025-04-14,P025,0-17,Male,Non-Serious,Allergic Reaction,Recovered,Patient,36,Possible,Closed
+AE00169,2024-04-25,P004,0-17,Female,Non-Serious,Gastrointestinal,Unknown,Distributor,34,Probable,Under Review
+AE00170,2025-08-26,P027,18-30,Female,Non-Serious,Allergic Reaction,Recovering,Patient,35,Unlikely,Under Review
+AE00171,2024-04-07,P012,18-30,Female,Non-Serious,Dizziness,Recovering,Hospital,3,Possible,Closed
+AE00172,2024-03-19,P012,18-30,Not Reported,Non-Serious,Dizziness,Unknown,Hospital,26,Possible,Closed
+AE00173,2025-03-09,P019,0-17,Female,Non-Serious,Gastrointestinal,Unknown,Patient,15,Possible,Closed
+AE00174,2024-08-18,P021,0-17,Not Reported,Non-Serious,Headache,Recovering,Hospital,1,Unlikely,Under Review
+AE00175,2025-02-24,P027,0-17,Not Reported,Non-Serious,Headache,Recovered,Doctor,17,Unlikely,Closed
+AE00176,2024-08-08,P036,0-17,Female,Non-Serious,Allergic Reaction,Recovered,Hospital,28,Certain,Under Review
+AE00177,2024-04-19,P016,0-17,Female,Serious,Respiratory,Recovered,Doctor,6,Unlikely,Under Review
+AE00178,2025-09-17,P030,31-45,Not Reported,Non-Serious,Respiratory,Recovered,Hospital,14,Certain,Under Review
+AE00179,2024-11-05,P030,31-45,Male,Non-Serious,Dizziness,Recovering,Hospital,11,Possible,Closed
+AE00180,2025-02-03,P008,46-60,Male,Non-Serious,Dizziness,Recovering,Distributor,5,Certain,Closed
+AE00181,2024-08-11,P029,18-30,Male,Non-Serious,Dizziness,Recovering,Distributor,12,Certain,Closed
+AE00182,2025-10-15,P008,31-45,Female,Non-Serious,Skin Reaction,Recovered,Doctor,31,Certain,Under Review
+AE00183,2025-07-20,P023,18-30,Male,Non-Serious,Headache,Recovered,Doctor,13,Certain,Closed
+AE00184,2025-07-23,P028,0-17,Female,Non-Serious,Skin Reaction,Recovered,Doctor,13,Possible,Closed
+AE00185,2024-04-02,P019,61+,Not Reported,Serious,Headache,Recovered,Doctor,27,Unlikely,Closed
+AE00186,2025-12-06,P026,0-17,Female,Non-Serious,Headache,Unknown,Doctor,16,Probable,Closed
+AE00187,2025-08-19,P014,61+,Not Reported,Non-Serious,Gastrointestinal,Recovering,Doctor,17,Probable,Under Review
+AE00188,2025-08-08,P006,0-17,Female,Non-Serious,Respiratory,Unknown,Patient,33,Unlikely,Closed
+AE00189,2025-09-07,P014,0-17,Female,Non-Serious,Respiratory,Recovering,Patient,30,Certain,Closed
+AE00190,2024-10-29,P031,31-45,Male,Non-Serious,Skin Reaction,Unknown,Distributor,2,Unlikely,Closed
+AE00191,2024-12-24,P021,46-60,Male,Non-Serious,Skin Reaction,Unknown,Distributor,26,Possible,Closed
+AE00192,2025-09-01,P005,18-30,Male,Non-Serious,Dizziness,Unknown,Hospital,9,Certain,Closed
+AE00193,2024-11-23,P009,61+,Not Reported,Non-Serious,Skin Reaction,Recovering,Doctor,20,Unlikely,Closed
+AE00194,2024-07-26,P016,31-45,Male,Non-Serious,Respiratory,Recovered,Doctor,32,Certain,Closed
+AE00195,2024-04-27,P026,31-45,Female,Non-Serious,Headache,Recovering,Doctor,15,Probable,Closed
+AE00196,2024-04-24,P009,46-60,Female,Non-Serious,Skin Reaction,Unknown,Patient,36,Certain,Closed
+AE00197,2025-03-06,P036,61+,Female,Non-Serious,Gastrointestinal,Recovering,Distributor,19,Probable,Under Review
+AE00198,2025-08-02,P017,0-17,Female,Non-Serious,Allergic Reaction,Recovered,Hospital,8,Possible,Closed
+AE00199,2025-04-13,P033,61+,Male,Non-Serious,Skin Reaction,Recovered,Hospital,30,Possible,Closed
+AE00200,2025-10-18,P014,61+,Male,Non-Serious,Headache,Unknown,Patient,3,Certain,Closed
+AE00201,2024-05-19,P002,46-60,Not Reported,Non-Serious,Respiratory,Unknown,Distributor,32,Unlikely,Under Review
+AE00202,2024-02-17,P004,61+,Not Reported,Non-Serious,Allergic Reaction,Recovering,Hospital,15,Certain,Closed
+AE00203,2024-05-11,P020,61+,Male,Non-Serious,Headache,Recovered,Doctor,32,Unlikely,Closed
+AE00204,2024-07-06,P035,18-30,Male,Serious,Allergic Reaction,Recovered,Distributor,32,Probable,Closed
+AE00205,2025-02-27,P018,46-60,Male,Non-Serious,Dizziness,Unknown,Patient,13,Probable,Closed
+AE00206,2024-02-03,P007,31-45,Male,Serious,Skin Reaction,Recovered,Doctor,7,Unlikely,Closed
+AE00207,2024-07-18,P020,18-30,Not Reported,Non-Serious,Dizziness,Recovering,Distributor,35,Unlikely,Closed
+AE00208,2025-06-02,P001,31-45,Not Reported,Non-Serious,Dizziness,Recovered,Patient,18,Possible,Under Review
+AE00209,2024-03-01,P002,61+,Male,Non-Serious,Gastrointestinal,Unknown,Doctor,27,Unlikely,Closed
+AE00210,2025-07-14,P005,31-45,Not Reported,Non-Serious,Respiratory,Recovering,Distributor,17,Unlikely,Under Review
+AE00211,2024-11-03,P026,61+,Not Reported,Non-Serious,Allergic Reaction,Unknown,Hospital,29,Unlikely,Closed
+AE00212,2024-01-07,P007,31-45,Male,Non-Serious,Skin Reaction,Unknown,Hospital,1,Probable,Closed
+AE00213,2024-08-29,P025,0-17,Female,Non-Serious,Gastrointestinal,Recovering,Patient,9,Certain,Under Review
+AE00214,2024-10-12,P003,61+,Not Reported,Non-Serious,Respiratory,Recovered,Distributor,22,Possible,Closed
+AE00215,2024-04-26,P034,31-45,Female,Non-Serious,Headache,Recovered,Distributor,23,Certain,Closed
+AE00216,2025-12-31,P033,18-30,Female,Non-Serious,Dizziness,Recovering,Distributor,2,Unlikely,Closed
+AE00217,2025-07-03,P009,0-17,Male,Non-Serious,Headache,Recovered,Distributor,24,Unlikely,Closed
+AE00218,2025-05-24,P022,31-45,Male,Non-Serious,Respiratory,Unknown,Doctor,24,Possible,Closed
+AE00219,2024-01-15,P007,0-17,Female,Non-Serious,Skin Reaction,Recovered,Doctor,22,Probable,Under Review
+AE00220,2025-02-17,P027,46-60,Male,Non-Serious,Allergic Reaction,Recovering,Patient,25,Probable,Closed
+AE00221,2024-01-01,P020,0-17,Male,Non-Serious,Gastrointestinal,Recovered,Doctor,15,Possible,Closed
+AE00222,2025-11-15,P025,46-60,Not Reported,Non-Serious,Headache,Unknown,Distributor,15,Unlikely,Closed
+AE00223,2024-06-13,P014,61+,Female,Non-Serious,Gastrointestinal,Unknown,Doctor,5,Certain,Closed
+AE00224,2024-07-03,P036,18-30,Male,Non-Serious,Headache,Unknown,Hospital,6,Unlikely,Closed
+AE00225,2024-07-29,P033,61+,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,18,Unlikely,Closed
+AE00226,2024-06-14,P036,31-45,Not Reported,Non-Serious,Headache,Unknown,Patient,20,Probable,Closed
+AE00227,2024-07-23,P021,61+,Male,Non-Serious,Headache,Unknown,Distributor,4,Possible,Closed
+AE00228,2024-09-17,P032,0-17,Female,Non-Serious,Dizziness,Recovered,Patient,19,Possible,Closed
+AE00229,2025-09-21,P004,0-17,Female,Serious,Respiratory,Recovering,Distributor,19,Unlikely,Closed
+AE00230,2025-10-29,P015,18-30,Male,Non-Serious,Respiratory,Recovered,Doctor,20,Unlikely,Closed
+AE00231,2025-07-22,P006,0-17,Female,Non-Serious,Allergic Reaction,Recovering,Hospital,20,Possible,Closed
+AE00232,2025-01-19,P036,31-45,Not Reported,Non-Serious,Headache,Unknown,Doctor,35,Possible,Closed
+AE00233,2024-03-24,P030,46-60,Male,Non-Serious,Gastrointestinal,Recovering,Hospital,4,Unlikely,Under Review
+AE00234,2025-02-11,P006,31-45,Male,Non-Serious,Gastrointestinal,Recovered,Hospital,8,Unlikely,Under Review
+AE00235,2024-02-11,P005,31-45,Female,Non-Serious,Allergic Reaction,Recovered,Distributor,16,Possible,Closed
+AE00236,2024-05-18,P025,31-45,Female,Non-Serious,Headache,Unknown,Hospital,19,Certain,Under Review
+AE00237,2024-02-17,P024,31-45,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,22,Unlikely,Closed
+AE00238,2024-12-20,P026,46-60,Not Reported,Non-Serious,Skin Reaction,Recovering,Distributor,29,Probable,Closed
+AE00239,2025-02-08,P005,0-17,Male,Non-Serious,Gastrointestinal,Recovered,Hospital,3,Possible,Closed
+AE00240,2024-08-27,P031,31-45,Male,Non-Serious,Headache,Recovered,Patient,25,Probable,Under Review
+AE00241,2024-05-06,P029,0-17,Male,Non-Serious,Dizziness,Recovering,Distributor,14,Possible,Closed
+AE00242,2024-02-12,P026,31-45,Female,Non-Serious,Gastrointestinal,Recovering,Doctor,6,Certain,Closed
+AE00243,2025-12-05,P016,31-45,Male,Non-Serious,Dizziness,Unknown,Patient,24,Probable,Closed
+AE00244,2024-10-29,P004,61+,Female,Non-Serious,Allergic Reaction,Recovered,Hospital,21,Certain,Closed
+AE00245,2025-07-01,P001,61+,Female,Non-Serious,Allergic Reaction,Recovered,Patient,1,Possible,Closed
+AE00246,2024-03-16,P003,46-60,Not Reported,Non-Serious,Skin Reaction,Recovering,Hospital,20,Probable,Closed
+AE00247,2025-02-24,P027,0-17,Male,Non-Serious,Dizziness,Recovered,Distributor,9,Unlikely,Closed
+AE00248,2025-02-11,P002,61+,Female,Non-Serious,Respiratory,Recovered,Doctor,16,Unlikely,Closed
+AE00249,2024-11-06,P001,0-17,Not Reported,Non-Serious,Headache,Recovered,Patient,35,Unlikely,Closed
+AE00250,2024-04-25,P025,0-17,Not Reported,Non-Serious,Headache,Recovering,Distributor,34,Probable,Closed
+AE00251,2024-10-04,P017,18-30,Female,Serious,Allergic Reaction,Recovering,Hospital,8,Possible,Closed
+AE00252,2024-04-14,P029,61+,Not Reported,Serious,Allergic Reaction,Recovered,Patient,31,Probable,Closed
+AE00253,2024-11-11,P022,61+,Not Reported,Non-Serious,Gastrointestinal,Unknown,Doctor,26,Unlikely,Closed
+AE00254,2024-11-24,P031,18-30,Male,Non-Serious,Dizziness,Recovered,Patient,18,Unlikely,Closed
+AE00255,2025-08-20,P033,31-45,Female,Non-Serious,Headache,Unknown,Doctor,7,Probable,Closed
+AE00256,2025-01-16,P018,46-60,Female,Non-Serious,Respiratory,Recovered,Hospital,23,Certain,Closed
+AE00257,2025-04-24,P025,46-60,Female,Non-Serious,Headache,Recovered,Distributor,25,Probable,Closed
+AE00258,2025-08-14,P017,61+,Not Reported,Non-Serious,Skin Reaction,Recovered,Patient,15,Possible,Closed
+AE00259,2024-07-23,P018,0-17,Male,Serious,Allergic Reaction,Recovered,Hospital,6,Probable,Closed
+AE00260,2025-02-02,P003,61+,Not Reported,Non-Serious,Allergic Reaction,Unknown,Distributor,9,Possible,Closed
+AE00261,2025-06-17,P034,18-30,Female,Non-Serious,Allergic Reaction,Unknown,Patient,1,Probable,Closed
+AE00262,2025-10-26,P030,31-45,Not Reported,Non-Serious,Headache,Unknown,Distributor,30,Unlikely,Closed
+AE00263,2025-05-25,P006,61+,Female,Non-Serious,Gastrointestinal,Recovering,Distributor,17,Unlikely,Under Review
+AE00264,2025-12-26,P023,18-30,Male,Non-Serious,Dizziness,Unknown,Hospital,5,Probable,Closed
+AE00265,2025-03-19,P021,0-17,Male,Non-Serious,Respiratory,Recovered,Hospital,29,Probable,Closed
+AE00266,2025-01-06,P006,0-17,Female,Non-Serious,Skin Reaction,Recovering,Doctor,9,Probable,Closed
+AE00267,2025-09-30,P009,61+,Not Reported,Non-Serious,Gastrointestinal,Recovered,Distributor,10,Certain,Under Review
+AE00268,2024-05-16,P008,61+,Not Reported,Non-Serious,Allergic Reaction,Recovering,Doctor,30,Certain,Closed
+AE00269,2024-10-15,P032,61+,Male,Non-Serious,Skin Reaction,Recovering,Patient,18,Certain,Closed
+AE00270,2025-04-10,P028,18-30,Male,Non-Serious,Headache,Unknown,Patient,3,Unlikely,Closed
+AE00271,2024-09-21,P020,61+,Not Reported,Non-Serious,Allergic Reaction,Recovering,Distributor,31,Possible,Closed
+AE00272,2024-09-08,P001,46-60,Male,Non-Serious,Dizziness,Unknown,Doctor,23,Certain,Closed
+AE00273,2024-10-20,P027,46-60,Not Reported,Non-Serious,Allergic Reaction,Recovering,Patient,12,Unlikely,Closed
+AE00274,2025-10-02,P001,18-30,Female,Non-Serious,Dizziness,Recovering,Patient,12,Possible,Closed
+AE00275,2024-02-09,P029,61+,Female,Non-Serious,Allergic Reaction,Recovering,Doctor,32,Possible,Under Review
+AE00276,2024-11-26,P034,18-30,Male,Serious,Headache,Recovering,Distributor,23,Probable,Under Review
+AE00277,2025-04-15,P007,0-17,Male,Non-Serious,Headache,Recovering,Doctor,11,Probable,Closed
+AE00278,2024-05-01,P018,31-45,Female,Non-Serious,Respiratory,Unknown,Distributor,4,Certain,Closed
+AE00279,2025-08-06,P036,31-45,Not Reported,Non-Serious,Allergic Reaction,Recovering,Doctor,28,Probable,Under Review
+AE00280,2025-06-25,P034,31-45,Male,Non-Serious,Dizziness,Unknown,Patient,36,Possible,Under Review
+AE00281,2024-08-06,P005,61+,Not Reported,Non-Serious,Headache,Unknown,Patient,26,Certain,Closed
+AE00282,2025-08-14,P018,31-45,Male,Non-Serious,Skin Reaction,Recovered,Hospital,23,Certain,Closed
+AE00283,2025-05-02,P002,61+,Male,Non-Serious,Dizziness,Recovering,Patient,27,Unlikely,Closed
+AE00284,2024-01-08,P022,0-17,Female,Serious,Gastrointestinal,Recovered,Hospital,6,Unlikely,Closed
+AE00285,2025-08-26,P034,0-17,Female,Non-Serious,Gastrointestinal,Recovered,Distributor,25,Probable,Closed
+AE00286,2025-03-06,P008,46-60,Male,Non-Serious,Headache,Recovering,Doctor,14,Unlikely,Closed
+AE00287,2025-07-04,P011,18-30,Female,Non-Serious,Skin Reaction,Unknown,Distributor,30,Probable,Under Review
+AE00288,2024-10-19,P020,18-30,Female,Non-Serious,Dizziness,Unknown,Distributor,27,Probable,Closed
+AE00289,2025-07-07,P020,46-60,Male,Non-Serious,Headache,Recovered,Patient,31,Certain,Under Review
+AE00290,2024-05-15,P016,0-17,Male,Non-Serious,Gastrointestinal,Unknown,Distributor,19,Possible,Closed
+AE00291,2025-02-24,P026,31-45,Not Reported,Non-Serious,Skin Reaction,Recovering,Distributor,12,Certain,Closed
+AE00292,2024-09-20,P005,46-60,Female,Non-Serious,Skin Reaction,Unknown,Doctor,7,Possible,Closed
+AE00293,2024-10-03,P007,31-45,Female,Non-Serious,Skin Reaction,Unknown,Hospital,3,Possible,Closed
+AE00294,2024-08-03,P036,31-45,Not Reported,Non-Serious,Dizziness,Recovering,Doctor,4,Certain,Under Review
+AE00295,2024-12-08,P021,61+,Female,Non-Serious,Allergic Reaction,Unknown,Distributor,28,Unlikely,Closed
+AE00296,2025-10-23,P009,61+,Not Reported,Non-Serious,Headache,Unknown,Hospital,19,Unlikely,Under Review
+AE00297,2025-08-04,P011,31-45,Male,Non-Serious,Dizziness,Recovered,Hospital,14,Unlikely,Closed
+AE00298,2024-04-10,P019,18-30,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,25,Probable,Closed
+AE00299,2025-02-15,P031,18-30,Not Reported,Non-Serious,Gastrointestinal,Recovering,Doctor,9,Probable,Closed
+AE00300,2024-11-04,P029,31-45,Male,Non-Serious,Headache,Recovering,Hospital,18,Probable,Closed
+AE00301,2024-03-22,P018,0-17,Female,Non-Serious,Respiratory,Unknown,Distributor,36,Possible,Under Review
+AE00302,2024-07-17,P033,61+,Female,Serious,Skin Reaction,Recovered,Distributor,11,Certain,Closed
+AE00303,2024-06-10,P016,18-30,Not Reported,Non-Serious,Allergic Reaction,Recovering,Patient,24,Probable,Closed
+AE00304,2025-03-06,P014,61+,Not Reported,Non-Serious,Gastrointestinal,Unknown,Doctor,24,Unlikely,Under Review
+AE00305,2025-05-22,P010,18-30,Not Reported,Non-Serious,Skin Reaction,Recovering,Distributor,11,Unlikely,Under Review
+AE00306,2025-10-08,P009,46-60,Not Reported,Serious,Headache,Recovering,Distributor,29,Certain,Closed
+AE00307,2024-01-18,P033,31-45,Male,Non-Serious,Skin Reaction,Recovering,Hospital,16,Unlikely,Under Review
+AE00308,2024-05-30,P031,61+,Male,Non-Serious,Allergic Reaction,Recovered,Patient,30,Certain,Closed
+AE00309,2025-08-06,P024,31-45,Female,Serious,Gastrointestinal,Recovered,Doctor,34,Possible,Closed
+AE00310,2025-12-15,P005,61+,Female,Non-Serious,Headache,Recovered,Doctor,15,Possible,Closed
+AE00311,2025-05-14,P023,61+,Female,Non-Serious,Respiratory,Recovering,Patient,20,Possible,Closed
+AE00312,2025-12-13,P009,61+,Male,Non-Serious,Dizziness,Unknown,Patient,30,Unlikely,Closed
+AE00313,2025-12-18,P030,18-30,Not Reported,Non-Serious,Respiratory,Recovering,Distributor,34,Unlikely,Closed
+AE00314,2024-04-06,P032,18-30,Female,Non-Serious,Gastrointestinal,Recovered,Hospital,18,Unlikely,Closed
+AE00315,2024-12-17,P020,0-17,Female,Non-Serious,Respiratory,Unknown,Hospital,1,Unlikely,Under Review
+AE00316,2025-01-25,P036,0-17,Male,Non-Serious,Respiratory,Recovering,Hospital,23,Probable,Closed
+AE00317,2024-03-02,P018,18-30,Male,Non-Serious,Dizziness,Recovered,Hospital,34,Certain,Closed
+AE00318,2025-07-09,P020,0-17,Not Reported,Non-Serious,Respiratory,Recovering,Doctor,12,Certain,Under Review
+AE00319,2024-03-08,P005,0-17,Not Reported,Non-Serious,Skin Reaction,Recovering,Patient,6,Probable,Closed
+AE00320,2024-07-27,P018,0-17,Male,Non-Serious,Respiratory,Recovered,Doctor,26,Possible,Closed
+AE00321,2025-06-29,P031,46-60,Not Reported,Non-Serious,Respiratory,Unknown,Distributor,7,Unlikely,Closed
+AE00322,2024-01-20,P006,31-45,Male,Non-Serious,Respiratory,Unknown,Hospital,1,Possible,Closed
+AE00323,2025-10-29,P027,0-17,Not Reported,Non-Serious,Respiratory,Recovered,Doctor,6,Unlikely,Closed
+AE00324,2025-08-27,P018,46-60,Not Reported,Non-Serious,Gastrointestinal,Recovering,Patient,7,Probable,Closed
+AE00325,2025-05-20,P025,18-30,Female,Non-Serious,Gastrointestinal,Unknown,Distributor,31,Possible,Closed
+AE00326,2025-09-15,P023,46-60,Female,Non-Serious,Dizziness,Recovering,Patient,4,Certain,Under Review
+AE00327,2024-06-19,P003,0-17,Male,Non-Serious,Headache,Recovering,Doctor,8,Probable,Closed
+AE00328,2024-01-08,P022,18-30,Female,Non-Serious,Respiratory,Recovered,Doctor,31,Possible,Closed
+AE00329,2024-07-13,P031,61+,Female,Serious,Allergic Reaction,Recovering,Patient,1,Probable,Closed
+AE00330,2025-05-13,P034,0-17,Female,Non-Serious,Skin Reaction,Recovered,Doctor,17,Possible,Closed
+AE00331,2025-10-12,P026,61+,Female,Non-Serious,Dizziness,Unknown,Patient,21,Possible,Closed
+AE00332,2025-11-28,P012,61+,Male,Non-Serious,Dizziness,Unknown,Doctor,21,Unlikely,Under Review
+AE00333,2025-12-06,P020,0-17,Female,Non-Serious,Headache,Recovered,Distributor,30,Unlikely,Closed
+AE00334,2025-11-07,P024,18-30,Male,Non-Serious,Dizziness,Unknown,Patient,8,Possible,Under Review
+AE00335,2024-06-18,P035,0-17,Female,Non-Serious,Headache,Recovered,Hospital,28,Certain,Closed
+AE00336,2025-01-23,P002,61+,Female,Non-Serious,Respiratory,Unknown,Hospital,12,Probable,Closed
+AE00337,2025-11-17,P006,18-30,Not Reported,Non-Serious,Headache,Unknown,Patient,16,Unlikely,Closed
+AE00338,2024-07-09,P009,61+,Male,Non-Serious,Dizziness,Unknown,Distributor,19,Probable,Closed
+AE00339,2025-01-21,P006,18-30,Male,Non-Serious,Allergic Reaction,Recovering,Patient,34,Probable,Closed
+AE00340,2024-04-16,P002,46-60,Female,Non-Serious,Skin Reaction,Recovered,Distributor,27,Certain,Closed
+AE00341,2025-05-26,P003,0-17,Female,Non-Serious,Skin Reaction,Recovered,Distributor,3,Certain,Closed
+AE00342,2024-05-27,P005,46-60,Male,Non-Serious,Dizziness,Unknown,Patient,14,Possible,Closed
+AE00343,2024-04-30,P022,61+,Not Reported,Non-Serious,Dizziness,Unknown,Distributor,11,Probable,Under Review
+AE00344,2025-08-28,P013,18-30,Male,Serious,Dizziness,Hospitalized,Doctor,23,Possible,Closed
+AE00345,2025-01-22,P004,0-17,Not Reported,Non-Serious,Dizziness,Unknown,Hospital,21,Unlikely,Closed
+AE00346,2025-03-28,P029,0-17,Not Reported,Non-Serious,Headache,Recovering,Doctor,32,Certain,Closed
+AE00347,2024-07-01,P011,18-30,Male,Non-Serious,Gastrointestinal,Unknown,Hospital,4,Certain,Under Review
+AE00348,2025-12-09,P012,61+,Female,Non-Serious,Gastrointestinal,Recovered,Doctor,29,Certain,Under Review
+AE00349,2024-08-10,P034,61+,Male,Non-Serious,Respiratory,Recovered,Distributor,28,Probable,Closed
+AE00350,2024-04-04,P022,31-45,Female,Non-Serious,Gastrointestinal,Recovered,Hospital,31,Possible,Closed
+AE00351,2024-12-14,P022,18-30,Female,Non-Serious,Respiratory,Recovered,Hospital,9,Probable,Closed
+AE00352,2024-06-10,P030,18-30,Not Reported,Non-Serious,Gastrointestinal,Unknown,Distributor,31,Probable,Closed
+AE00353,2025-06-21,P012,0-17,Female,Non-Serious,Gastrointestinal,Recovering,Doctor,11,Unlikely,Closed
+AE00354,2025-01-13,P023,61+,Not Reported,Non-Serious,Headache,Unknown,Doctor,2,Unlikely,Under Review
+AE00355,2024-09-22,P011,0-17,Not Reported,Non-Serious,Headache,Unknown,Doctor,2,Probable,Under Review
+AE00356,2024-09-22,P022,46-60,Female,Non-Serious,Skin Reaction,Unknown,Distributor,3,Certain,Closed
+AE00357,2024-07-09,P015,18-30,Male,Non-Serious,Respiratory,Unknown,Doctor,32,Probable,Closed
+AE00358,2025-04-06,P034,61+,Female,Non-Serious,Headache,Recovering,Patient,15,Probable,Closed
+AE00359,2024-06-07,P014,31-45,Female,Non-Serious,Respiratory,Recovering,Distributor,5,Probable,Closed
+AE00360,2024-05-22,P012,0-17,Male,Non-Serious,Skin Reaction,Unknown,Doctor,15,Possible,Closed
+AE00361,2024-02-08,P002,61+,Not Reported,Non-Serious,Headache,Unknown,Distributor,33,Certain,Closed
+AE00362,2024-10-16,P007,31-45,Not Reported,Non-Serious,Allergic Reaction,Unknown,Patient,29,Probable,Under Review
+AE00363,2024-11-22,P011,46-60,Male,Non-Serious,Headache,Unknown,Doctor,28,Unlikely,Closed
+AE00364,2025-06-22,P010,46-60,Female,Serious,Gastrointestinal,Recovered,Doctor,17,Possible,Closed
+AE00365,2025-10-26,P029,46-60,Male,Non-Serious,Skin Reaction,Unknown,Doctor,17,Unlikely,Closed
+AE00366,2025-10-19,P018,0-17,Female,Non-Serious,Gastrointestinal,Recovered,Distributor,27,Certain,Closed
+AE00367,2024-02-25,P026,18-30,Female,Non-Serious,Headache,Recovered,Doctor,25,Certain,Under Review
+AE00368,2024-07-26,P022,18-30,Not Reported,Non-Serious,Gastrointestinal,Recovered,Hospital,8,Probable,Closed
+AE00369,2025-12-10,P024,0-17,Female,Serious,Dizziness,Recovered,Doctor,13,Possible,Under Review
+AE00370,2025-05-25,P023,31-45,Male,Non-Serious,Respiratory,Recovering,Distributor,12,Possible,Closed
+AE00371,2025-02-10,P006,46-60,Not Reported,Non-Serious,Respiratory,Recovered,Hospital,36,Certain,Closed
+AE00372,2024-04-09,P028,46-60,Not Reported,Non-Serious,Gastrointestinal,Recovering,Distributor,32,Probable,Closed
+AE00373,2025-01-29,P010,18-30,Male,Non-Serious,Allergic Reaction,Unknown,Doctor,32,Unlikely,Closed
+AE00374,2025-07-15,P006,31-45,Not Reported,Serious,Dizziness,Recovered,Distributor,27,Possible,Closed
+AE00375,2024-07-05,P031,18-30,Not Reported,Serious,Dizziness,Recovered,Hospital,15,Unlikely,Closed
+AE00376,2024-01-07,P021,46-60,Not Reported,Non-Serious,Allergic Reaction,Recovered,Doctor,30,Certain,Closed
+AE00377,2024-12-01,P001,61+,Female,Non-Serious,Headache,Unknown,Hospital,20,Probable,Closed
+AE00378,2025-07-24,P016,46-60,Female,Non-Serious,Allergic Reaction,Recovered,Hospital,22,Possible,Closed
+AE00379,2024-06-17,P017,18-30,Not Reported,Non-Serious,Headache,Unknown,Distributor,16,Unlikely,Under Review
+AE00380,2024-12-06,P023,46-60,Female,Non-Serious,Dizziness,Recovering,Distributor,20,Unlikely,Closed
+AE00381,2025-08-01,P017,18-30,Not Reported,Non-Serious,Headache,Recovering,Patient,9,Certain,Under Review
+AE00382,2025-04-06,P005,0-17,Not Reported,Non-Serious,Dizziness,Recovered,Distributor,30,Certain,Closed
+AE00383,2024-04-01,P013,0-17,Male,Serious,Skin Reaction,Recovered,Patient,14,Probable,Closed
+AE00384,2025-10-08,P020,61+,Female,Non-Serious,Allergic Reaction,Recovering,Distributor,24,Unlikely,Closed
+AE00385,2025-07-29,P004,46-60,Female,Non-Serious,Dizziness,Recovered,Patient,12,Certain,Closed
+AE00386,2024-09-21,P019,61+,Male,Serious,Headache,Hospitalized,Patient,27,Unlikely,Closed
+AE00387,2024-08-26,P014,61+,Male,Non-Serious,Allergic Reaction,Recovering,Hospital,6,Certain,Closed
+AE00388,2025-07-21,P003,18-30,Male,Non-Serious,Skin Reaction,Recovered,Doctor,17,Certain,Closed
+AE00389,2024-09-30,P017,0-17,Male,Non-Serious,Gastrointestinal,Recovered,Patient,26,Certain,Closed
+AE00390,2025-11-19,P018,46-60,Not Reported,Serious,Dizziness,Hospitalized,Hospital,13,Possible,Closed
+AE00391,2025-06-08,P009,18-30,Female,Non-Serious,Respiratory,Recovering,Doctor,17,Unlikely,Closed
+AE00392,2024-12-24,P031,61+,Not Reported,Non-Serious,Allergic Reaction,Recovering,Doctor,6,Certain,Closed
+AE00393,2025-04-17,P020,31-45,Female,Non-Serious,Respiratory,Unknown,Hospital,8,Certain,Closed
+AE00394,2025-02-02,P013,61+,Not Reported,Non-Serious,Skin Reaction,Recovered,Doctor,23,Unlikely,Closed
+AE00395,2025-04-21,P034,61+,Female,Non-Serious,Allergic Reaction,Unknown,Hospital,26,Possible,Closed
+AE00396,2025-03-23,P022,31-45,Not Reported,Non-Serious,Gastrointestinal,Unknown,Distributor,1,Probable,Closed
+AE00397,2024-03-12,P018,31-45,Female,Non-Serious,Skin Reaction,Recovering,Patient,34,Probable,Closed
+AE00398,2024-07-09,P032,18-30,Not Reported,Non-Serious,Respiratory,Recovering,Patient,5,Possible,Closed
+AE00399,2024-01-07,P032,0-17,Male,Non-Serious,Respiratory,Unknown,Distributor,32,Unlikely,Closed
+AE00400,2025-03-12,P029,61+,Female,Non-Serious,Allergic Reaction,Unknown,Patient,7,Unlikely,Closed
+AE00401,2025-02-26,P011,46-60,Male,Non-Serious,Dizziness,Unknown,Doctor,5,Certain,Closed
+AE00402,2024-10-25,P024,18-30,Not Reported,Serious,Gastrointestinal,Hospitalized,Hospital,5,Certain,Closed
+AE00403,2024-11-02,P030,31-45,Male,Serious,Allergic Reaction,Recovered,Patient,35,Possible,Under Review
+AE00404,2024-11-09,P015,0-17,Female,Non-Serious,Skin Reaction,Recovered,Doctor,21,Unlikely,Under Review
+AE00405,2024-06-01,P006,31-45,Male,Non-Serious,Skin Reaction,Recovering,Doctor,35,Unlikely,Under Review
+AE00406,2025-09-30,P012,18-30,Not Reported,Non-Serious,Dizziness,Recovering,Distributor,34,Unlikely,Closed
+AE00407,2024-02-01,P014,61+,Female,Non-Serious,Allergic Reaction,Unknown,Distributor,30,Probable,Under Review
+AE00408,2024-09-25,P001,61+,Not Reported,Non-Serious,Allergic Reaction,Recovering,Doctor,15,Unlikely,Closed
+AE00409,2025-06-19,P015,61+,Not Reported,Non-Serious,Skin Reaction,Recovering,Patient,27,Certain,Closed
+AE00410,2024-04-15,P008,31-45,Not Reported,Serious,Gastrointestinal,Hospitalized,Patient,1,Certain,Under Review
+AE00411,2025-01-03,P034,0-17,Not Reported,Non-Serious,Gastrointestinal,Unknown,Doctor,29,Probable,Closed
+AE00412,2024-02-15,P016,61+,Female,Non-Serious,Headache,Recovered,Hospital,5,Unlikely,Closed
+AE00413,2024-02-07,P036,0-17,Not Reported,Non-Serious,Headache,Recovering,Doctor,36,Possible,Closed
+AE00414,2025-12-06,P026,46-60,Female,Non-Serious,Dizziness,Recovering,Doctor,13,Unlikely,Closed
+AE00415,2025-09-02,P019,61+,Not Reported,Non-Serious,Headache,Recovering,Doctor,29,Unlikely,Closed
+AE00416,2025-03-15,P030,31-45,Male,Non-Serious,Skin Reaction,Recovering,Distributor,25,Probable,Closed
+AE00417,2025-11-02,P027,0-17,Female,Non-Serious,Skin Reaction,Unknown,Distributor,27,Possible,Closed
+AE00418,2025-07-19,P008,31-45,Not Reported,Non-Serious,Headache,Recovering,Patient,11,Possible,Under Review
+AE00419,2025-01-23,P011,46-60,Not Reported,Non-Serious,Allergic Reaction,Recovering,Doctor,21,Probable,Closed
+AE00420,2024-07-13,P019,46-60,Female,Non-Serious,Gastrointestinal,Recovering,Distributor,33,Unlikely,Closed
